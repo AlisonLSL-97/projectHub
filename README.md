@@ -1,3 +1,3 @@
 # projectHub
 
-Hello. This is the sandbox
+Hello. This is where I keep my personal projects.
